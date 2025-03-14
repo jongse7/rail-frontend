@@ -1,5 +1,4 @@
 import MainPage from "@/page/MainPage/page";
-import { ProjectPage } from "@/page/ProjectPage/page";
 import { Layout } from "@/route/outlet";
 import { Route, Routes } from "react-router-dom";
 
