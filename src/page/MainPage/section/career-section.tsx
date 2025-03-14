@@ -5,7 +5,7 @@ import { EXPERIENCES } from "../const/experiences";
 
 export function CareerSection() {
   return (
-    <section className="w-full max-sm:w-[340px] items-start border-gray-500 border-2 p-2 rounded-md">
+    <section className="w-full max-sm:w-[300px] items-start border-gray-500 border-2 p-2 rounded-md">
       <div className="flex flex-row items-center gap-2 mb-2">
         <SquareCheck className={cn("size-8")} />
         <p className="text-2xl font-medium">주요경력</p>

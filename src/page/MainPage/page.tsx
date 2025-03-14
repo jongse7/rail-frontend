@@ -5,7 +5,7 @@ import { TechStackSection } from "./section/techstack-section";
 
 export default function MainPage() {
   return (
-    <div className="flex flex-col items-start ml-8 gap-8 pb-8">
+    <div className="flex flex-col items-start ml-8 gap-8 pb-8 max-sm:items-center">
       <ProfileSecion />
       <CareerSection />
       <TechStackSection />

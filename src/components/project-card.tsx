@@ -19,7 +19,7 @@ export function ProjectCard({
 }: ProjectCardProps) {
   return (
     <div
-      className="w-[320px] cursor-pointer hover:opacity-90 transition"
+      className="w-[300px] cursor-pointer hover:opacity-90 transition"
       onClick={() => window.open(projectUrl, "_blank")}
     >
       <AspectRatio

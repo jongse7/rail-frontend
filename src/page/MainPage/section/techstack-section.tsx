@@ -5,7 +5,7 @@ import { FLUTTER, REACT } from "../const/tech-stack";
 
 export function TechStackSection() {
   return (
-    <section className="w-full max-sm:w-[340px] items-start  border-gray-500 border-2 p-2 rounded-md">
+    <section className="w-full max-sm:w-[300px] items-start  border-gray-500 border-2 p-2 rounded-md">
       <div className="flex flex-row items-center gap-2 mb-2">
         <SquareCheck className={cn("size-8")} />
         <p className="text-2xl font-medium">기술 스택</p>
