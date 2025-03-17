@@ -26,7 +26,7 @@ export const projects = [
   {
     img: "/image/project/lock-myself.webp",
     title: "[앱] Lock Myself",
-    badge: ["Web"],
+    badge: ["App"],
     badgeColor: ["bg-[#2D5268]"],
     projectUrl:
       "https://general-index-f2e.notion.site/Lock-Myself-0c1f8da3a2f346b68c8025ae32b7a6bf?pvs=4",
